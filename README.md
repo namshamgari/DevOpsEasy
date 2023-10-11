@@ -1,2 +1,0 @@
-# DevOpsEasy
- my devops environment
